@@ -1,7 +1,7 @@
 <p>
-git clone https://aur.archlinux.org/packettracer.git
-paste "PacketTracer_731_amd64.deb" into packettracer folder
-cd packettracer
-makepkg -sri
-done
+git clone https://aur.archlinux.org/packettracer.git<br>
+paste "PacketTracer_731_amd64.deb" into packettracer folder<br>
+cd packettracer<br>
+makepkg -sri<br>
+done<br>
 </p>
